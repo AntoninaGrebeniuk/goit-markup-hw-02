@@ -99,12 +99,6 @@ body {
   color: var(--accent-color);
 }
 
-/* -----Main----- */
-
-.main-section {
-  background-color: var(--secondary-white-color);
-}
-
 /* -----Герой------ */
 
 .hero-section {
@@ -198,7 +192,6 @@ body {
 }
 
 .team-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
@@ -225,7 +218,6 @@ body {
 
 .address-link {
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -235,7 +227,6 @@ body {
 
 .footer-link {
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.17;
   letter-spacing: 0.03em;
